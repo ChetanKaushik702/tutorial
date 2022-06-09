@@ -3,3 +3,4 @@ Another line added from github.
 
 
 This is some new feature.
+This is feature-2.
